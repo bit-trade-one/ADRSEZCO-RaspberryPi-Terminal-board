@@ -14,12 +14,12 @@
 
 ## 製品仕様
 
-【対象Raspberry Pi】Raspberry Pi Zero WH/Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B
-【ユニバーサルスルーホール穴数】42 穴
-【電源ライン】5V／3.3V
-【電源】Raspberry Pi より給電
-【サイズ】W65xH20xD56mm（突起部除く）
-【重量】 約36g（ボード単体）
-【付属品】ネジセット 1
-【使用温度】 0 ～ 40℃（結露なきこと）
-【生産国】Made in Japan
+【対象Raspberry Pi】Raspberry Pi Zero WH/Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B  
+【ユニバーサルスルーホール穴数】42 穴  
+【電源ライン】5V／3.3V  
+【電源】Raspberry Pi より給電  
+【サイズ】W65xH20xD56mm（突起部除く）  
+【重量】 約36g（ボード単体）  
+【付属品】ネジセット 1  
+【使用温度】 0 ～ 40℃（結露なきこと）  
+【生産国】Made in Japan  
