@@ -10,6 +10,8 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adrsezco/)!
 
+## [回路図](https://github.com/bit-trade-one/ADRSEZCO-RaspberryPi-Terminal-board/blob/master/Schematics/raspi_tb_schematics.pdf)
+
 ## 製品仕様
 
 【対象Raspberry Pi】Raspberry Pi Zero WH/Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B
